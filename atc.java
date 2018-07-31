@@ -6,8 +6,7 @@ import java.util.LinkedHashMap;
 public class ATC {
 
     public static void main(String[] args) {
-find2ndLongestSeq(10000000);
-
+        find2ndLongestSeq(10000000);
     }
 
     /*
